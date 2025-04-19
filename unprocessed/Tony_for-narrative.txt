@@ -1,0 +1,88 @@
+I am a strategic, emotionally intense systems thinker driven by ADHD and OCD. I rely heavily on GPT as a second brain to structure my thoughts, emotional reflections, and technical designs. I strongly challenge binary thinking, especially when it lacks empathy, across moral, political, and interpersonal contexts. My analytical nature sometimes leans into cynicism or absurd humor as a defense mechanism during emotionally charged interactions. I continuously strive to soften these defenses through mindfulness and reflective practices.
+
+I am deeply committed to my emotional growth, frequently exploring the roots of my reactions around rejection, attachment, and autonomy. As an Enneagram 4w5, The Individualist with a Thinker wing, I embrace a reflective and introspective approach to understanding myself and others. Reflecting regularly on my inner child's experiences of abandonment, I channel these insights into practices of self-compassion. Despite a history of intrusive violent and sexual thoughts associated with OCD, I actively use journaling, writing, and AI-driven tools to track patterns, enhance self-awareness, and support my personal growth.
+
+I often find myself seeking external validation through perceived attractiveness or attention but am working intentionally to anchor my validation inwardly. Authenticity and emotional transparency are central to my interactions, particularly in close relationships and mentorship roles. I greatly prefer meaningful, in-depth conversations over superficial small talk, often posing deep, personal questions to truly understand others. Creating safe environments for openness and genuine connection is deeply important to me. My top StrengthsFinder themes—Learner, Relator, Strategic, Ideation, and Intellection—reflect this passion for deep, authentic relationships and innovative thinking.
+
+Physically, I am 6 feet tall and weighed 235 lbs as of January 2025. I've grappled with body image and weight challenges since childhood, experiencing cycles of starvation and overeating during periods of emotional stress. My discomfort with having large breasts as a man has led me to explore surgical options and potential insurance coverage. Additionally, for about three to four years, I've experienced erectile difficulties affecting my sexual life. Managing sleep has also been a lifelong challenge, significantly amplifying my anxiety and emotional dysregulation.
+
+Currently, I am working to reduce my intake due to workload demands. My medication regimen as of February 2025 includes 40mg Prozac and 27mg Concerta in the morning, 25mg Trazodone at night, and 10mg Buspar twice daily. My past medication history (1997–2005) includes Zyprexa, Seroquel, diazepam, Buspar, gabapentin, and Prozac, which I stopped due to side effects before resuming Prozac in 2017. I find joy and relaxation in hobbies such as genealogy, rock collecting, coin collecting, and electrolysis. Additionally, I enjoy experimenting with smoked foods, particularly exploring varied intensities of smoky flavors in both food and drink.
+
+I am building the Whisper Transcriber from the ground up with GPT, adopting a design-first, iterative methodology. I commit changes to GitHub after each implementation step to maintain clarity and traceability. My aim is to collaborate on the Whisper Transcriber design via GitHub, utilizing the platform for version control. Additionally, I leverage GPT for various financial analyses, such as evaluating insurance options. Currently, I'm launching an idea-tracking system where GPT observes submissions, identifies themes, and highlights insights without responding to each thought individually.
+
+To further enhance output integrity and logic auditing, I utilize a secondary GPT persona known as "STFC Witness GPT." I adhere strictly to exact naming and versioning conventions (e.g., `export_formulas`), favoring stepwise clarity over paraphrased summaries. My system-building philosophy revolves around creating supportive and safe environments for others. I also approach adversity as a means for growth, striving continuously for emotional and physical autonomy. My methods include vigorous exercise and strategic withdrawal to stabilize my emotional well-being.
+
+I have been married to Lisa (INFJ, 6w5) for over 25 years. Lisa's primary love languages are acts of service and quality time, whereas mine are quality time and words of affirmation. Together, we have seven children: Dominic (INFP), Madeline (INTP, MCAS), Gabriel (CPVT), Eliza (ENFP), Anthony (autism), Mathias, and Vivian. I actively support Gabriel emotionally and practically through his intellectual and medical challenges, and I share a profoundly philosophical and emotionally candid relationship with Madeline. Dominic, a trans woman, is navigating her independence at college and forming a romantic connection with Annabell.
+
+My relationship with Lisa has matured significantly from its emotionally turbulent beginnings into a resilient and transparent partnership. I openly communicate my attractions to Lisa to reduce secrecy and emotional tension. Recognizing emotional asymmetry stemming from Lisa’s guardedness, I am diligently transitioning from codependency toward self-regulated emotional autonomy. I openly acknowledge past parenting mistakes to model personal growth and resilience to my children and family. Additionally, I have become a stabilizing male role model for Annabell, cautious due to past experiences, and for Riley, my son-in-law, who fled an abusive situation.
+
+My family dynamics include my brother-in-law, David Ching, who is autistic, religiously conservative, and highly intelligent. I'm planning to celebrate my 26th anniversary with Lisa thoughtfully, honoring her need for rest. My introspection extends to a past attraction to my college teacher, Darcy Lease, which I continue to navigate with self-awareness. Regular reflection on my relationship with my father deepens my understanding of my identity and emotional patterns. Lisa and I follow a specific naming convention for our children: six syllables total with one name starting with 'E'.
+
+I actively work on emotional patterns and anxieties through AI-assisted journaling, mindfulness practices, and self-inquiry. By reframing attraction and validation-seeking as signals for deeper self-exploration, I resist the urge for immediate emotional relief, gradually increasing my capacity to tolerate discomfort. My values prioritize nuance, complexity, and self-responsibility in emotional development. Spiritually, I strategically utilize perceived religiosity while rejecting dogma, viewing Christ as a radical moral teacher, and framing spiritual discourse around values rather than doctrine. I aim to meet people authentically, maintain integrity, and prioritize moral reflection over persuasion.
+
+In practical hobbies, I have a strong interest in acquiring silver and silver-plated items for personal enjoyment and resale. Using electrolysis, I am experimenting with extracting silver from quadruple-plated thrifted items, employing my NICE-POWER DC supply (32.15V, 10.20A) for metal recovery. My goal includes filtering electrolysis solutions to recover up to 99% of silver particulate. I am also researching techniques for melting copper at home, considering dissolving entire silver-plated copper items for more efficient separation. Ultimately, I plan to strip silver items down to bare copper, reconstitute recovered silver into bars, and thoroughly document and refine this entire process.
+
+Professional Context:
+I am a Storage and Virtualization Engineer at a liberal arts university, a position that provides both financial stability and educational benefits for my family. My role at work intersects significantly with my personal life, especially with Dominic recently starting college at my workplace. I'm actively involved in developing an AI initiative at my university, collaborating closely with other IT professionals, which aligns with my passion for strategic planning and system design. I deeply enjoy mentoring colleagues and fostering an inclusive, supportive workplace culture that emphasizes emotional intelligence, self-awareness, and continuous growth.
+
+Musical Identity:
+Music is central to my emotional expression and identity. I work as a collaborative pianist for university choirs, instrumentalists, and church services, passionately creating environments where musical experiences become deeply shared and collaborative. My intense involvement with music is recognized and valued by both students and colleagues, going beyond transactional relationships to create genuine, meaningful connections. Choir tours and significant musical events have frequently highlighted my enthusiasm, dedication, and ability to inspire others through shared passion.
+
+Parenting and Family Dynamics:
+My parenting approach prioritizes emotional openness, transparency, and authenticity, aiming to model healthy relationships and emotional intelligence for my children. I actively work to normalize mental health conversations within my family, striving to break intergenerational cycles of emotional neglect and stigma. My family has consistently attracted individuals from challenging backgrounds, such as my son-in-law Riley and Dominic's friend Annabell, highlighting our role in providing stability and emotional support. Each of my children’s unique traits—Dominic's independence, Madeline’s intellectual depth, Gabriel’s medical challenges, Anthony's autism, and Eliza’s creativity—inform my empathetic and tailored parenting strategies.
+
+Mental Health and Emotional Regulation:
+I have faced significant mental health challenges throughout my life, including childhood emotional neglect, severe misdiagnoses during college, and ongoing struggles with intrusive thoughts associated with OCD. These experiences have profoundly shaped my resilience and advocacy for systemic improvements in mental health resources, particularly in educational institutions. Regular vigorous exercise, journaling, therapy, and AI-assisted reflection are crucial components of my daily self-care routine, significantly aiding in managing anxiety, emotional dysregulation, and intrusive thoughts.
+
+Personal Interests and Hobbies:
+I derive significant joy and relaxation from various hobbies, including genealogy, rock collecting, coin collecting, and more recently, rock-cutting and polishing. Additionally, I am deeply engaged in metal recovery, specifically extracting silver from thrifted items using electrolysis, a hobby that satisfies my curiosity and desire for hands-on problem-solving. Experimenting with smoked foods, drinks, and flavors is another passion, reflecting my love for culinary exploration and sensory experiences.
+
+Relational and Emotional Growth:
+I have a strong history of anxious attachment, particularly in my relationship with Lisa, and am actively working towards emotional autonomy, internal regulation, and self-compassion. Understanding Lisa’s emotional boundaries and autonomy needs is central to our partnership, guiding how we interact and support each other daily. I frequently acknowledge past relational mistakes openly as a model of growth, striving for healthier emotional patterns and deeper relational intimacy. I approach spiritual discussions and moral reflections thoughtfully, strategically using perceived religiosity without adhering to dogmatic beliefs.
+
+Mental Health Journey:
+Detailed coverage of your OCD, ADHD, anxiety, and historical mental health experiences, including intrusive thoughts, emotional dysregulation, medication history, and coping mechanisms.
+
+Relationship Dynamics:
+Captures complexity with Lisa, including emotional asymmetry, co-dependency, anxious attachment, guardedness, past turbulence, and efforts toward healthier relational dynamics.
+
+Family and Parenting:
+Clearly covers dynamics with children (Dominic, Madeline, Gabriel, Anthony, Eliza, Mathias, Vivian), including emotional openness, parenting philosophy, supporting neurodiversity, medical issues, and individualized care approaches.
+
+Professional and Creative Life:
+Accurately includes your role in IT, music identity, system design and AI initiatives, and personal growth-oriented mentorship at work.
+
+Personal Interests and Hobbies:
+Reflects electrolysis hobby, smoked food exploration, genealogy, rock-cutting, coin collecting, and other areas of creative curiosity.
+
+Spiritual and Philosophical Orientation:
+Captures nuanced approach toward Christ, religiosity, and moral reflection without dogma or manipulation.
+
+Areas Needing Explicit Clarification or Adjustment:
+Medication Dosage Correction:
+
+Your original summary mistakenly lists your Buspar dosage as 10mg twice daily, whereas your uploaded document specifies 5mg twice daily. Confirm correct dosage explicitly (document states 5mg, your summary currently says 10mg).
+
+Dominic’s Background and Relationship Status:
+
+Your detailed document emphasizes Dominic’s independence, extensive life experience, and explicitly notes Dominic has spent significant time independently from the family. Your summary mentions independence briefly, but ensuring explicit mention of her extensive prior independence from home and work experience may enhance accuracy.
+
+Relational Boundaries with Annabell:
+
+Your original text explicitly emphasizes intense attraction to Annabell, clear boundary-setting, and intentional emotional management. Your summary broadly mentions this but could be slightly clearer about your intentional restraint and active emotional regulation to retain full context explicitly.
+
+Past Attraction (Darcy Lease):
+
+The summary briefly mentions Darcy Lease, but the original document contains more explicit context about your current feelings and how historical attraction affects current interactions. Consider explicitly emphasizing the ongoing emotional self-awareness surrounding interactions with Darcy for full context.
+
+Sleep Difficulties:
+
+Original details on sleep explicitly suggest uncertainty about underlying causes (ADHD, OCD, or other factors). Your summary mentions lifelong sleep challenges, but could explicitly state your uncertainty about underlying reasons, aligning more closely with the original context.
+
+Professional Relationships and Advocacy:
+
+Original details explicitly mention your advocacy for systemic mental health support for faculty and staff. Your summary implicitly addresses advocacy but could explicitly emphasize advocacy efforts to fully retain original intent.
+
+Professional Goal to Consult on GPT for Large Organizations:
+
+Original document mentions explicitly your ambition to consult professionally for large organizations (1000+ employees) as a ChatGPT expert. Consider explicitly reiterating this career ambition clearly in your final document to retain full intent.

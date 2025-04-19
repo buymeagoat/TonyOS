@@ -1,0 +1,53 @@
+🔐 Core Principle: “Specify Mode”
+At the start of any GPT-directed instruction, try to specify the mode — are we reflecting, previewing, or updating?
+
+1. Reflection Mode (default)
+Use when thinking aloud, exploring possibilities, or asking “what would happen if…?”
+
+✅ “How would this change our current behavior?”
+
+✅ “What do you think of this?”
+
+✅ “Help me phrase this refinement.”
+
+❗ I will analyze but not act — no behavior changes, no file updates.
+
+2. Preview Mode
+Use when you want a concrete draft, but not yet committed to it.
+
+✅ “Show me how the instructions would look with this change.”
+
+✅ “Write a candidate update I can review.”
+
+❗ I will generate the full text of the potential update, but wait for your confirmation to apply it.
+
+3. Action Mode
+Use when you're ready for implementation.
+
+✅ “Go ahead and apply this instruction.”
+
+✅ “Update the GPT with the following behavior change.”
+
+❗ I will immediately apply changes or log them, as directed.
+
+🛠 Additional Tips
+Use “Don’t act yet” when exploring
+Even if you’re not sure what mode you’re in, you can clarify:
+
+“Here’s a thought — don’t act on it yet, just tell me how it would change the system.”
+
+Ask for a dry run
+You can say:
+
+“Simulate this update but don’t apply it yet.”
+
+Use tags if you like
+Some people prefer shorthand tags at the start of a message, like:
+
+[Reflect]
+
+[Preview]
+
+[Apply]
+
+I’ll follow your lead if you want to use something like that.

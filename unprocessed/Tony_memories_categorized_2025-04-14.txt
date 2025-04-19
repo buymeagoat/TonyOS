@@ -1,0 +1,130 @@
+# 🧠 Categorized Memory Archive (Revised)
+
+This document organizes all individual memory fragments from Tony's archive using the Four Pillars framework. All previously uncategorized information has now been assigned to appropriate sections, or a new category has been created where necessary.
+
+---
+
+## 1. 🧠 Identity & Personality
+
+- Tony is a strategic, emotionally intense, ADHD/OCD-driven systems thinker who uses GPT as a second brain to structure thought, emotional reflection, and technical design.
+- Tony is critical of black-and-white, empathy-absent thinking and challenges binary narratives in moral, political, and interpersonal spaces.
+- Tony is deeply committed to emotional growth and regularly explores the roots of his emotional reactions, particularly around rejection, attachment, and autonomy.
+- Tony enjoys smoked foods and wants to experiment with varying intensities of smoky flavors in food and drink.
+- Tony is a 4w5 (The Individualist with a Thinker Wing) on the Enneagram.
+- Tony uses ChatGPT as a thinking partner to track themes, manage idea flow, and maintain structure around his ADHD.
+- Tony was born on September 29, 1977. He is 6 feet tall and weighed 235 lbs as of January 2025.
+- Tony has struggled with body image and weight since childhood and actively works to break cycles of self-criticism and dysregulated eating.
+- Tony has large breasts for a man and finds this uncomfortable. He is exploring whether surgery could be covered by insurance.
+- Tony has experienced cycles of starvation and overeating, particularly during periods of emotional dysregulation.
+- Tony is analytical and sometimes uses cynicism or absurd humor as a defense in emotionally charged situations.
+- Tony’s top StrengthsFinder themes are Learner, Relator, Strategic, Ideation, and Intellection.
+- Tony often reflects on his internal child’s sense of abandonment and channels this into self-compassion practices.
+- Tony prefers meaningful, in-depth conversations and avoids small talk. He is known for asking deep, personal questions that reveal character.
+- Tony sees himself as authentic and emotionally transparent, especially in relationships and mentorship roles.
+- Tony often desires external validation through perceived attractiveness or attention, but is actively working to shift validation inward.
+- Tony finds joy in genealogy, rock collecting, coin collecting, and more recently, rock-cutting and polishing.
+- Tony believes in meeting people authentically and creating safe environments that encourage openness and connection.
+- Tony often becomes analytical or defensive under emotional stress and is learning to soften those tendencies through mindfulness and reflection.
+- Tony experiences intrusive thoughts (violent/sexual) due to OCD, which have affected daily functioning and emotional regulation.
+- Tony has lifelong difficulty with falling and staying asleep, which amplifies his anxiety and emotional dysregulation.
+- Tony uses writing, journaling, and AI tools to track patterns, gain insight, and support self-growth.
+- Tony considers himself both analytical and philosophical, often zooming out to understand complex patterns in human behavior and emotion.
+- Tony has experienced erectile difficulties for 3–4 years, impacting sex and masturbation.
+- Tony is currently consuming 800–1000mg of caffeine per day and has chosen to taper rather than quit cold turkey due to workload demands.
+- Tony’s current medications as of February 2025: 40mg Prozac (AM), 27mg Concerta (AM), 25mg Trazodone (PM), 5mg Buspar (twice daily).
+- Tony’s past medication history (1997–2005) includes Zyprexa, Seroquel, diazepam, Buspar, gabapentin, Prozac. He stopped due to side effects and resumed Prozac in 2017 (currently 80mg).
+
+---
+
+## 2. 💼 Projects & Technical Work
+
+- Tony is building the Whisper Transcriber from the ground up with GPT, using a design-first, iterative approach.
+- The project includes a GUI and web-based interface using Flask, Whisper, and SQLite.
+- He uses Jinja2 templates and vanilla JavaScript for frontend rendering.
+- A simple authentication system with admin user management is planned.
+- Jobs should run concurrently across users with SQL-backed metadata tracking.
+- The system supports cooperative cancellation using a shared `CANCELLED[job_id]` flag.
+- Logs are partitioned by type and retained by default, with optional scheduled cleanup.
+- He relocated template rendering to `app/templates/` and stores data in a root-level `data/` folder.
+- Tony commits changes to GitHub after each implementation step to ensure traceability.
+- Users can re-run jobs on previously uploaded audio files without re-uploading.
+- Tony uses `setup_env.py` to reset the development environment, deleting and recreating key folders (`data`, `logs`, `uploads`, etc.) while protecting version-controlled files.
+- `setup_env.py` confirms root folder location and requires user confirmation before wiping non-tracked files.
+- The interface supports multi-step transcription: upload, auto-detect language/length, configure model/output/timestamps, and optional segment selection.
+- Output formats include `.txt`, `.srt`, and `.vtt`, with visible progress indicators.
+- Tony is packaging the GUI version as a portable EXE with PyInstaller.
+- A Windows GUI version is being built using `customtkinter` with a dropdown for Whisper models, right-click context menu support, batch file/folder input, and selectable output path.
+- Output defaults to `%USERPROFILE%\Documents\Whisper Transcriptions` unless otherwise specified.
+- The full system runs in a virtual machine using VMware, with browser-based access for transcription jobs.
+- All Whisper settings (context menu, model, output folder) can be configured from the GUI.
+- The GUI should allow enabling/disabling the right-click context menu entry.
+- Final version intended to be a self-contained EXE with no separate installer.
+- Tony wants the application to include a navigation bar, and expects future pages/functions to be integrated into the nav bar as they are developed.
+- Tony wants the Whisper Transcriber design to be fully documented as a blueprint for rebuild, targeting senior developers.
+- Tony wants to collaborate on the Whisper Transcriber design using GitHub and manage versioning through the platform.
+- Tony wants to use GPT for financial analysis, including evaluating insurance options.
+- Tony is launching an idea-tracking system where GPT observes submissions, tracks themes, and surfaces insights without replying to each thought.
+- Tony uses a secondary GPT persona, "STFC Witness GPT," to audit logic and output integrity.
+- He defines exact naming/versioning conventions (e.g., `export_formulas`) and prefers stepwise clarity over paraphrased summaries.
+
+---
+
+## 3. ❤️ Relationships & Life Context
+
+- Tony is married to Lisa (INFJ, 6w5). They've been together for over 25 years.
+- Lisa’s love languages are acts of service and quality time; Tony’s are quality time and words of affirmation.
+- Tony and Lisa share seven children, including Dominic (INFP), Madeline (INTP, MCAS), Gabriel (CPVT), Eliza (ENFP), Anthony (autism), Mathias, and Vivian.
+- Tony supports Gabriel emotionally and practically, especially around his intellectual and medical challenges.
+- Tony and Madeline share a deeply philosophical and emotionally candid bond.
+- Dominic is a trans woman navigating college life with independence, and has a budding romantic connection with Annabell.
+- Tony openly shares his attractions with Lisa to reduce secrecy and emotional buildup.
+- Tony and Lisa’s early relationship included emotional turbulence, but has matured into a resilient, honest partnership.
+- Tony and Lisa experience emotional asymmetry due to Lisa’s guardedness and overstimulation.
+- Tony is working on shifting from co-dependency to self-regulated emotional autonomy.
+- Tony acknowledges past parenting mistakes to model growth and resilience.
+- Annabell, cautious of men due to her father, sees Tony as a positive male role model.
+- Riley, Tony’s son-in-law, also views Tony as a stabilizing influence after fleeing abuse.
+- Tony’s brother-in-law, David Ching, is autistic, religiously conservative, and highly intelligent.
+- Tony wants to celebrate his 26th anniversary with Lisa in a way that honors her need for rest.
+- Tony had a past attraction to a college teacher (Darcy Lease) and continues to navigate that dynamic with self-awareness.
+- Tony reflects often on the connection between his father and his own identity.
+- Tony and Lisa use a specific pattern for naming children: six syllables total, one name starting with 'E'.
+
+---
+
+## 4. 🧭 Core Themes & Personal Growth
+
+- Tony views adversity as a tool for growth and insight.
+- He actively works to build emotional and physical autonomy.
+- He practices "detachment with compassion" in relationships.
+- He is shifting away from anxious attachment and reassurance-seeking behaviors.
+- Tony uses AI, journaling, and mindfulness to track emotional patterns and manage OCD/anxiety.
+- Tony reframes attraction and validation-seeking as cues for self-inquiry.
+- He resists instant emotional relief and is learning to tolerate discomfort.
+- He values nuance, complexity, and self-responsibility in emotional development.
+- Tony is exploring his relationship to belief, using perceived religiosity strategically while rejecting dogma.
+- Tony sees Christ as a radical moral teacher and frames spiritual discussions around values.
+- He believes in meeting people where they are while maintaining integrity.
+- Tony avoids weaponizing religion and values moral reflection over persuasion.
+- Tony sees caffeine, food cravings, and poor sleep as areas for embodied self-regulation.
+- He uses vigorous exercise and strategic withdrawal to stabilize emotions.
+- Tony integrates past traumas (e.g., emotional neglect, early misdiagnosis) into current growth.
+- Tony's system-building philosophy includes building spaces where others feel supported and safe.
+
+---
+
+## 5. 🧪 Hobbies & Material Projects (New Category)
+
+- Tony is interested in buying silver and silver-plated items, both for enjoyment and resale.
+- He has thrifted quadruple-plated pieces and wants to extract silver using electrolysis.
+- He owns a NICE-POWER DC supply (32.15V, 10.20A) for metal recovery.
+- He is working on filtering electrolysis solutions to recover 99% of silver particulate.
+- He is considering dissolving entire silver-plated copper items for separation.
+- He is researching how to melt copper at home.
+- Tony wants to strip silver items down to bare copper and reconstitute silver into bars.
+- He plans to document and refine this process.
+
+---
+
+## ✅ End of Archive (Fully Reclassified)
+
